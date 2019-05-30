@@ -8,7 +8,7 @@ A JavaScript implementation of Java's hashCode method.
 
 ## Node Repository
 
-[https://www.npmjs.com/package/@pelevesque/hash-code](https://www.npmjs.com/package/@pelevesque/hash-code)
+https://www.npmjs.com/package/@pelevesque/hash-code
 
 ## Installation
 
