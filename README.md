@@ -28,6 +28,9 @@ https://www.npmjs.com/package/@pelevesque/hash-code
 
 ```js
 const hashCode = require('@pelevesque/hash-code')
-const hash = hashCode('rabbit')
-// hash === -938645478
+```
+
+```js
+const result = hashCode('rabbit')
+// result === -938645478
 ```
