@@ -4,7 +4,7 @@
 const expect = require('chai').expect
 const hashCode = require('../index')
 
-describe('#hashcode()', () => {
+describe('#hashCode()', () => {
   it('should return an integer hash', () => {
     const result = Number.isInteger(hashCode('cat'))
     const expected = true
